@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[0],{13:function(e,t,c){},15:function(e,t,c){"use strict";c.r(t);var n=c(1),o=c(3),r=c(4),s=c.n(r),i=(c(13),c(0));function l(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsx)(s.a,{hello:"Hello React",img:"http://d.ibtimes.co.uk/en/full/1520592/pele-world-cup.jpg",age:12,person:"Pele"})})}var a=document.getElementById("root");Object(o.createRoot)(a).render(Object(i.jsx)(n.StrictMode,{children:Object(i.jsx)(l,{})}))},4:function(e,t){}},[[15,1,2]]]);
+//# sourceMappingURL=main.b10afbba.chunk.js.map
